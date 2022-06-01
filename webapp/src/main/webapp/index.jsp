@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register</h1>
+    <h1>Very New user Register</h1>
     <p>Please refill in this form to create an account.</p>
     <hr>
      
